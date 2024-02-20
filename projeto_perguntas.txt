@@ -4,9 +4,9 @@ Qual o melhor dia da semanaem relação ao cpc??
 
 Qual o melhor horário em relação ao cpc?
 
-Qual formato teve maior quantidade de clicks?
+Qual formato teve maior quantidade de clicks? (feito)
 
-Qual formato teve mais impressões?
+Qual formato teve mais impressões? (feito)
 
 Qual foi a variação do custo por click? 
 
