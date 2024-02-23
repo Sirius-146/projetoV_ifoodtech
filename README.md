@@ -44,7 +44,7 @@ Variável                | Significado
 Timestamp               | Ano - Mês - Dia - Hora/24
 Date                    | Ano - Mês - Dia
 Hour of Day             | Hora/24
-Date.1 | R$ 8           | Dia da semana
+Date.1                  | Dia da semana
 InventoryType           | Não catalogado     
  AD Size                | Tamanho em pixeis      
  Ad Type                | Não catalogado     
