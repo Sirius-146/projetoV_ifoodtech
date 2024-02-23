@@ -1,4 +1,4 @@
-# Módulo: Técnicas de programação I (PY) #
+# Módulo: Técnicas de Programação I (PY) #
 Oferecido por: 
  <i class="fas fa-laptop"></i> 📔 AdaTech e Ifood <i class="fas fa-laptop"></i> 📔
 
@@ -14,7 +14,7 @@ Oferecido por:
 
 **Grupo 02**  
 
-Composto por: 
+Composto por: <br>
 ⭐César Augusto<br>
 ⭐Eduardo Carvalho<br>
 ⭐Iago Mansur<br>
@@ -39,6 +39,28 @@ Podendo incluir quantas bases considerar necessário e filtrar as informações 
 O Banco de Dados é relacionado a campanhas de Anúncios (Advertising).
 Nele está disponível os vários tipos de Ads e as principais métricas.
 
+Variável                | Significado
+------------------------| ---------------------------
+Timestamp               | Ano - Mês - Dia - Hora/24
+Date                    | Ano - Mês - Dia
+Hour of Day             | Hora/24
+Date.1                  | Dia da semana
+InventoryType           | Não catalogado     
+ AD Size                | Tamanho em pixeis      
+ Ad Type                | Não catalogado     
+ Platform               | Plataforma de apresendação do anúncio
+ Device Type            | Dispositivo de apresendação do anúncio
+ Format                 | Formato do vídeo (Banner ou Vídeo)
+ Available_Impressions  | Impressões disponíveis(contratadas)
+ Matched_Queries        | Coincidência com chave de pesquisa
+ Impressions            | Impressões efetuadas
+ Clicks                 | Numero de clicks
+ Spend                  | Valor gasto com os anúncios
+ Fee                    | Taxas
+ Revenue                | Receita 
+ CTR                    | Clicks por exibição
+ CPM                    | Custo por Mil Impressões
+ CPC                    | Custo por click
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
@@ -79,14 +101,20 @@ Abaixo foram respondidas algumas perguntas importantes:
 ![Resultado 2](Imagens/output2.png)
 
 
+Acima podemos observar:
+1. Plataforma de vídeo é a com maior quantidade de impressões
+2. Video é o formato preferido nas plataformas Video e Web, enquanto Display se sobressai no 
+
+
 - Qual formato teve maior quantidade de clicks?
 
 ![Resultado 3](Imagens/output3.png)
 ![Resultado 4](Imagens/output4.png)
 
 Acima podemos observar:
-+ Vídeo é a melhor plataforma tanto relação formato vídeo quanto o formato display, mas a frente iremos investigar se isto também ocorre em relação ao CPC;
-+ App é a única plataforma que display é melhor que vídeo;
+1. Vídeo é a melhor plataforma tanto relação formato vídeo quanto o formato display, mas a frente iremos investigar se isto também ocorre em relação ao CPC;
+2. App é a única plataforma que display é melhor que vídeo;
+
 
 
 - Qual a melhor plataforma em relação ao CPC?
@@ -94,43 +122,72 @@ Acima podemos observar:
 ![Resultado 5](Imagens/output5.png)
 
 Acima podemos observar:
-+ Apesar do vídeo apresentar impressões e clicks superiores, o custo por click é muito próximo entre as plataformas
+1. Apesar do vídeo apresentar impressões e clicks superiores, o custo por click é muito próximo entre as plataformas
 
 
 - Qual o melhor formato em relação ao CPC?
 
 ![Resultado 6](Imagens/output6.png)
 
+Acima podemos observar:
+1. Não há diferenças significativas com relação ao formato
+
+
 
 - Qual o melhor dia da semana em relação ao CPC?
 
 ![Resultado 7](Imagens/output7.png)
+
+Acima podemos observar:
+1. Podemos notar que sexta-feira é o melhor dia para anúncios
+
+
 
 
 - Qual o melhor horário em relação ao CPC?
 
 ![Resultado 8](Imagens/output8.png)
 
+Acima podemos observar:
+1. O horário com maior CPC custuma ser entre 6 e 7 da manhã
+2. Podemos observar uma queda no CPC entre 20:00 e 22:00
+
+
 
 - Qual foi a variação do custo por Click?
 
 ![Resultado 9](Imagens/output9.png)
 
+Acima podemos observar:
+1. Um acúmulo de variação inferiores a 10 % com saltos para -60%
+2. Pode apontar um movimento cíclico
+
+
 
 - Qual horário tem maior disponibilidade e menor custo?
 
-+ Horário com maior disponibilidade: 21
-+ Horário com menor custo: 23
+1. Horário com maior disponibilidade: 21
+2. Horário com menor custo: 23
 
-- Qual melhor horário em relação ao CPC/Clicks??
+
+
+- Qual melhor horário em relação ao CPC/clicks?
 
 ![Resultado 10](Imagens/output10.png)
 ![Resultado 11](Imagens/output11.png)
+
+Acima podemos observar:
+1.  Os melhores horários giram em torno de 20:00 e 22:00
+
+
 
 
 - Qual o melhor dia da semana em relação aos Clicks?
 
 ![Resultado 12](Imagens/output12.png)
+
+Acima podemos observar:
+1. O melhor dia da semana para se ter mais clicks é o domingo
 
 
 
