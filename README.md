@@ -1,4 +1,4 @@
-# Módulo: Técnicas de programação I (PY) #
+# Módulo: Técnicas de Programação I (PY) #
 Oferecido por: 
  <i class="fas fa-laptop"></i> 📔 AdaTech e Ifood <i class="fas fa-laptop"></i> 📔
 
@@ -14,7 +14,7 @@ Oferecido por:
 
 **Grupo 02**  
 
-Composto por: 
+Composto por: <br>
 ⭐César Augusto<br>
 ⭐Eduardo Carvalho<br>
 ⭐Iago Mansur<br>
@@ -85,8 +85,8 @@ Abaixo foram respondidas algumas perguntas importantes:
 ![Resultado 4](Imagens/output4.png)
 
 Acima podemos observar:
-+ Vídeo é a melhor plataforma tanto relação formato vídeo quanto o formato display, mas a frente iremos investigar se isto também ocorre em relação ao CPC;
-+ App é a única plataforma que display é melhor que vídeo;
+1. Vídeo é a melhor plataforma tanto relação formato vídeo quanto o formato display, mas a frente iremos investigar se isto também ocorre em relação ao CPC;
+2. App é a única plataforma que display é melhor que vídeo;
 
 
 - Qual a melhor plataforma em relação ao CPC?
@@ -94,7 +94,7 @@ Acima podemos observar:
 ![Resultado 5](Imagens/output5.png)
 
 Acima podemos observar:
-+ Apesar do vídeo apresentar impressões e clicks superiores, o custo por click é muito próximo entre as plataformas
+1. Apesar do vídeo apresentar impressões e clicks superiores, o custo por click é muito próximo entre as plataformas
 
 
 - Qual o melhor formato em relação ao CPC?
@@ -119,8 +119,8 @@ Acima podemos observar:
 
 - Qual horário tem maior disponibilidade e menor custo?
 
-+ Horário com maior disponibilidade: 21
-+ Horário com menor custo: 23
+1. Horário com maior disponibilidade: 21
+2. Horário com menor custo: 23
 
 - Qual melhor horário em relação ao CPC/Clicks??
 
