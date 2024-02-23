@@ -39,6 +39,28 @@ Podendo incluir quantas bases considerar necessário e filtrar as informações 
 O Banco de Dados é relacionado a campanhas de Anúncios (Advertising).
 Nele está disponível os vários tipos de Ads e as principais métricas.
 
+Variável                | Significado
+------------------------| ---------------------------
+Timestamp               | Ano - Mês - Dia - Hora/24
+Date                    | Ano - Mês - Dia
+Hour of Day             | Hora/24
+Date.1 | R$ 8           | Dia da semana
+InventoryType           | Não catalogado     
+ AD Size                | Tamanho em pixeis      
+ Ad Type                | Não catalogado     
+ Platform               | Plataforma de apresendação do anúncio
+ Device Type            | Dispositivo de apresendação do anúncio
+ Format                 | Formato do vídeo (Banner ou Vídeo)
+ Available_Impressions  | Impressões disponíveis(contratadas)
+ Matched_Queries        | Coincidência com chave de pesquisa
+ Impressions            | Impressões efetuadas
+ Clicks                 | Numero de clicks
+ Spend                  | Valor gasto com os anúncios
+ Fee                    | Taxas
+ Revenue                | Receita 
+ CTR                    | Clicks por exibição
+ CPM                    | Custo por Mil Impressões
+ CPC                    | Custo por click
 
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
