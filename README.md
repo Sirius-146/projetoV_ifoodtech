@@ -101,6 +101,11 @@ Abaixo foram respondidas algumas perguntas importantes:
 ![Resultado 2](Imagens/output2.png)
 
 
+Acima podemos observar:
+1. Plataforma de vídeo é a com maior quantidade de impressões
+2. Video é o formato preferido nas plataformas Video e Web, enquanto Display se sobressai no 
+
+
 - Qual formato teve maior quantidade de clicks?
 
 ![Resultado 3](Imagens/output3.png)
@@ -109,6 +114,7 @@ Abaixo foram respondidas algumas perguntas importantes:
 Acima podemos observar:
 1. Vídeo é a melhor plataforma tanto relação formato vídeo quanto o formato display, mas a frente iremos investigar se isto também ocorre em relação ao CPC;
 2. App é a única plataforma que display é melhor que vídeo;
+
 
 
 - Qual a melhor plataforma em relação ao CPC?
@@ -123,20 +129,39 @@ Acima podemos observar:
 
 ![Resultado 6](Imagens/output6.png)
 
+Acima podemos observar:
+1. Não há diferenças significativas com relação ao formato
+
+
 
 - Qual o melhor dia da semana em relação ao CPC?
 
 ![Resultado 7](Imagens/output7.png)
+
+Acima podemos observar:
+1. Podemos notar que sexta-feira é o melhor dia para anúncios
+
+
 
 
 - Qual o melhor horário em relação ao CPC?
 
 ![Resultado 8](Imagens/output8.png)
 
+Acima podemos observar:
+1. O horário com maior CPC custuma ser entre 6 e 7 da manhã
+2. Podemos observar uma queda no CPC entre 20:00 e 22:00
+
+
 
 - Qual foi a variação do custo por Click?
 
 ![Resultado 9](Imagens/output9.png)
+
+Acima podemos observar:
+1. Um acúmulo de variação inferiores a 10 % com saltos para -60%
+2. Pode apontar um movimento cíclico
+
 
 
 - Qual horário tem maior disponibilidade e menor custo?
@@ -144,15 +169,25 @@ Acima podemos observar:
 1. Horário com maior disponibilidade: 21
 2. Horário com menor custo: 23
 
-- Qual melhor horário em relação ao CPC/Clicks??
+
+
+- Qual melhor horário em relação ao CPC/clicks?
 
 ![Resultado 10](Imagens/output10.png)
 ![Resultado 11](Imagens/output11.png)
+
+Acima podemos observar:
+1.  Os melhores horários giram em torno de 20:00 e 22:00
+
+
 
 
 - Qual o melhor dia da semana em relação aos Clicks?
 
 ![Resultado 12](Imagens/output12.png)
+
+Acima podemos observar:
+1. O melhor dia da semana para se ter mais clicks é o domingo
 
 
 
